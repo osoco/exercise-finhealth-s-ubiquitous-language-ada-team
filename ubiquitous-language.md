@@ -1,6 +1,6 @@
-##FinHealth: Ubiquitous Language
+# FinHealth: Ubiquitous Language
 
-###Roles
+## Roles
 
 - **user**: Has access to the application
 - **user manager**: Administrator - creates and manages other users
@@ -11,10 +11,10 @@
 - **user project manager**: Creates projects, creates tasks, assigns - profiles to employees, assigns employees to projects
 - **user client manager**: Creates clients and updates client information
 
-###Concepts
+## Concepts
 
 - **task**: predefined task within a project (only a project manager can create and update this) 
-- **work: hours spent on a task (employees can add comments to this)
+- **work**: hours spent on a task (employees can add comments to this)
 - **tariff**: cost for each profile on a project (change to ‘rate’?)
 - **profile**: describes each person’s responsibilities within a project
 - **project**: services to be provided based on client’s needs (each project has a start date, end date, different profiles, tariffs, tasks and employees associated with it)
